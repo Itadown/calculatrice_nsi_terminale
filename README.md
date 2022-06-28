@@ -5,3 +5,5 @@ I did a little QR code who is hide with a key combination (and I hide the QR cod
 I used tkinter for the graphic interface, pillow for the QR code only and math for some things like pi... 
 
 I had hidden a snake game too for fun.
+
+The instruction was to make a calculator with the reverse Polish method and the Pile class (because we just learn that at this moment), and we add like i said before, a snake, a QR code, but a lot of math function too, and a normal calcul method.
